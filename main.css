@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Gluten:wght@200&family=Orbitron&display=swap');
+/* font-family: 'Comfortaa', cursive;
+font-family: 'Gluten', cursive;
+font-family: 'Orbitron', sans-serif; */
+*{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Gluten', cursive;
+    font-family: 'Orbitron', sans-serif;}
+html {
+
+    display: grid;
+    place-items: center;
+}
+
+body {
+    
+    background:white;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    
+    color: rgb(161, 23, 23);
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 0 0 20px rgb(190, 167, 62);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.heading{
+    font-size: 30px;
+    
+}
+#image{
+    width: 500px;
+    height:400px;
+    
+    
+    
+}
+.container{
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 0px;
+    margin:5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10%;
+    color:white;
+    text-shadow: 0 0 10px  rgb(233, 174, 12);
+}
+
+button:hover {
+    box-shadow: 0 0 20px rgb(161, 23, 23); 
+}
+
+div {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    line-height: 50px;
+
+}
+
